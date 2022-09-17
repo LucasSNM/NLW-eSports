@@ -8,7 +8,12 @@ Nesse projeto foi desenvolvido uma plataforma onde você pode procurar um Duo/Pa
 
 Embaixo você pode conferir como o projeto ficou na pratica
 
-Web
-![Alt Text](https://media.giphy.com/media/gIrJwfxBlfEZPfZOWx/giphy.gif)
 Mobile
+
 ![Alt Text](https://media.giphy.com/media/Ix106F13TDUAa3789b/giphy.gif)
+
+
+Web
+
+![Alt Text](https://media.giphy.com/media/gIrJwfxBlfEZPfZOWx/giphy.gif)
+
